@@ -11,7 +11,7 @@
 
 ### Features
 
-- Support m3u8 TV and Radio live Broadcast, and you can custom your own TV and Radio channel.
+- Support m3u8 TV/Radio live Broadcast, and you can custom your own TV/Radio channel.
 - Support text and m3u playlist file.
 - Support  media file formats such as m3u8, mp4, mp3. . . . . .
 - Support fullscreen.
