@@ -94,5 +94,5 @@ Just drag your favorite TV and Radio playlist file to the window or open it.
 
 ### If you do not make your own Playlist file
 
-- Updata at 2018-10-18 
+- Update on October 18, 2018 
 - [Get the Sample Playlist fie](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
