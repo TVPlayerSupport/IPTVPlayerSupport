@@ -49,7 +49,7 @@
 
 ### How it works?
 
-1. Make your own Playlist file
+#### 1. Make your own Playlist file
 
  A. Make your own txt playlist file
 
@@ -90,9 +90,9 @@
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
 
-2. Drag your xxx.txt or xxx.m3u file to the App window or open it.
+#### 2. Drag your xxx.txt or xxx.m3u file to the App window or open it.
 
-3. Relax and watch your favorite shows on your Mac.
+#### 3. Relax and watch your favorite shows on your Mac.
 
 ### If you do not make your own Playlist file, download the sample one please!
 
