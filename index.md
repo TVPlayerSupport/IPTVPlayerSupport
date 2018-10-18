@@ -51,7 +51,7 @@
 
 1. Make your own txt playlist file
 
-A. Make your own txt playlist file
+   A. Make your own txt playlist file
 
 - Name your file as xxx.txt, then edit and save your text file in format as below:
  
@@ -64,7 +64,7 @@ A. Make your own txt playlist file
 - etc. . . . . .
 - (Save your xxx.txt file as UTF-8) 
 
-B. Make your own m3u playlist file (format 1)
+   B. Make your own m3u playlist file (format 1)
 
 - Name your playfile as xxx.txt, then edit and save your txt file in format as below:
 - #EXTM3U
@@ -77,7 +77,7 @@ B. Make your own m3u playlist file (format 1)
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
 
-C. Make your own m3u playlist file (format 2)
+   C. Make your own m3u playlist file (format 2)
 
 - Name your playfile as xxx.txt, then edit and save your txt file in format as below:
 - #EXTM3U
