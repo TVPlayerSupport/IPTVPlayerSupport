@@ -96,5 +96,5 @@
 
 ### Sample Playlist file download link
 
-- Update on October 18, 2018 
+- Updated on October 18, 2018 
 - [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
