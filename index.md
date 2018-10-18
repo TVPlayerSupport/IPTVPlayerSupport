@@ -94,7 +94,7 @@
 
 3. Relax and watch your favorite shows on your Mac.
 
-### Sample Playlist file download link
+### If you do not make your own Sample Playlist file download the file
 
 - Updated on October 18, 2018 
 - [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
