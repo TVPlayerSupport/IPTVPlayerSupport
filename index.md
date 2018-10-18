@@ -92,7 +92,7 @@ Just drag your favorite TV and Radio playlist file to the window or open it.
 
 3. Relax and watch your favorite shows on your Mac.
 
-### If you do not make your own Playlist file
+### Download the Smaple Playlist file
 
 - Update on October 18, 2018 
-- [Get the Sample Playlist fie](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
+- [Get the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
