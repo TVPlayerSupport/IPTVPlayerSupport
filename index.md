@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+## Welcome to IPTV Player Support
 
-You can use the [editor on GitHub](https://github.com/TVPlayerSupport/IPTVPlayerSupport/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Feel free to mail me：yu_tian_jian@sina.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Welcome to access：[http://www.yutianjian.com](http://www.yutianjian.com)
 
-### Markdown
+![Icon](icon_128.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+IPTV Player, watch television on your iMac or MBP.
+Just drag your favorite TV and Radio playlist file to the window or open it.
 
-```markdown
-Syntax highlighted code block
+### Features
 
-# Header 1
-## Header 2
-### Header 3
+- Support m3u8 TV and Radio live Broadcast, and you can custom your own TV and Radio channel.
+- Support text and m3u playlist file.
+- Support  media file formats such as m3u8, mp4, mp3. . . . . .
+- Support fullscreen.
+- Mouse Control show or hidden Playlist.
+- Support multi Playlist files, and auto save your txt and m3u Playlist files.
+- Resize window from 480x320 to Fullscreen.
+- Make the window always stay in front or not.
+- Support AirPlay for Apple TV.
+- Add your favorite channels to My Favorites.
 
-- Bulleted
-- List
+### How to Add channels to My Favorites or Delete it?
 
-1. Numbered
-2. List
+1. Select the channel you want to add first.
+2. Click the Menu File -- and the subMenu Add Channel to My Favorites
+3. or Click the Menu File -- and the subMenu Remove Channel From My Favorites.
+4. Once you add channels to My Favorites, it will show in the Playlist table.
 
-**Bold** and _Italic_ and `Code` text
+### How to Show or Hidden Playlist?
 
-[Link](url) and ![Image](src)
-```
+- Mouse control.
+1. Mouse move to the Left or Right side of the window, show the Playlist.
+2. Mouse move to the Mid area of the window, hidden the Playlist.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Menu control
+1. Click the Menu Playback (On the Top Left Corner)
+2. You will see the subMenu: Show/Hidden Playlist
+3. Just Click the subMenu
 
-### Jekyll Themes
+### Support multi Playlist files, How to remove a file from the TableView?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TVPlayerSupport/IPTVPlayerSupport/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Select the file you want delete in the Playlist TableView
+2. Click the Menu "File" (On the Top Left Corner)
+3. You will see the subMenu: Delete Playlist file
+4. Click the subMenu, the Playlist file you selected will be  removed from the TableView
 
-### Support or Contact
+### How it works?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1A. Make your own txt playlist file
+
+- Name your file as xxx.txt, then edit and save your text file in format as below:
+ 
+- TV or Radio Channel name,Media Source Link
+- One line one TV or Radio channel (do not forget The comma)
+- For example:
+- (line 1) TV 1,http://streamer.oodlz.it/hls/livestream.m3u8
+- (line 2) TV 2,http://stream.1music.hu/stream/1music.m3u8
+- (line 3) Radio 1,http://icestreaming.rai.it/1.mp3
+- etc. . . . . .
+- (Save your xxx.txt file as UTF-8) 
+
+1B. Make your own m3u playlist file (format 1)
+
+- Name your playfile as xxx.txt, then edit and save your txt file in format as below:
+- #EXTM3U
+- #EXTINF:-1,MUSIC choice
+- MUSIC choice,https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- #EXTINF:-1,NHK
+- NHK,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- #EXTINF:-1,BAL TV
+- BAL TV,http://77.89.199.174:81/hls/live2.m3u8
+- etc. . . . . .
+- Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
+
+1C. Make your own m3u playlist file (format 2)
+
+- Name your playfile as xxx.txt, then edit and save your txt file in format as below:
+- #EXTM3U
+- #EXTINF:-1,MUSIC choice
+- https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- #EXTINF:-1,NHK
+- https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- #EXTINF:-1,BAL TV
+- http://77.89.199.174:81/hls/live2.m3u8
+- etc. . . . . .
+- Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
+
+2. Drag your xxx.txt or xxx.m3u file to the App window or open it.
+
+3. Relax and watch your favorite shows on your Mac.
+
+### If you do not make your own Playlist file
+
+- Updata at 2018-10-18 
+- [Get the Sample Playlist fie](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
