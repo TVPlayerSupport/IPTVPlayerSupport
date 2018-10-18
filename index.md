@@ -98,3 +98,4 @@
 
 - Updated on October 18, 2018 
 - [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
+- After download the Playlist file, drop it into the window of IPTV Player.
