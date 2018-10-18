@@ -1,6 +1,6 @@
 ## Welcome to IPTV Player Support
 
-### Feel free to mail me：yu_tian_jian@sina.cn
+### Feel free to mail me：yu_tian_jian@163.com
 
 ### Welcome to access：[http://www.yutianjian.com](http://www.yutianjian.com)
 
