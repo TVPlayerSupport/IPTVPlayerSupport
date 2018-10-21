@@ -107,7 +107,7 @@
 
 - m3u (Format-1) Sample Playlist file 
 - [Download m3u（Format1）Sample Playlist file](https://TVPlayerSupport.github.io/txt/M3U_Format-1.m3u.zip)
-- 
+
 - m3u (Format-2) Sample Playlist file
 - [Download m3u（Format2）Sample Playlist file](https://TVPlayerSupport.github.io/txt/M3U_Format-2.m3u.zip)
 
