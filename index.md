@@ -96,7 +96,7 @@
 
 ### If you do not make your own Playlist file, download the sample one please!
 
-- Updated on October 20, 2018 
+- Updated on October 22, 2018 
 - [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
 - After download the Playlist file, drop it into the window of IPTV Player.
 
