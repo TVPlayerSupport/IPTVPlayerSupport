@@ -21,6 +21,19 @@
 - Make the window always stay in front or not.
 - Support AirPlay for Apple TV.
 - Add your favorite channels to My Favorites.
+- Conversion tool for txt and m3u Playlist file.
+
+### How to convert the format of Playlist file
+
+- Convert txt Playlist file to m3u Playlist file
+
+1. Click the Menu Playback - and the subMenu Show/Hidden txt and m3u conversion tool
+2. Open txt Playlist file, then Save as m3u Playlist file.
+
+- Convert m3u Playlist file to txt Playlist file
+
+1. Click the Menu Playback - and the subMenu Show/Hidden txt and m3u conversion tool
+2. Open m3u Playlist file, then Save as txt Playlist file.
 
 ### How to Add channels to My Favorites or Delete it?
 
