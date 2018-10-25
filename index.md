@@ -21,7 +21,6 @@
 - Make the window always stay in front or not.
 - Support AirPlay for Apple TV.
 - Add your favorite channels to My Favorites.
-- Conversion tool for txt and m3u Playlist file.
 
 ### How to convert the format of Playlist file
 
