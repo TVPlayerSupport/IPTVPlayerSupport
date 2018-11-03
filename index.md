@@ -57,11 +57,11 @@
 
 - Name your playlist as xxx.txt, then edit and save your txt file in format as below:
 - #EXTM3U
-- #EXTINF:-1,Channel 1
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
 - Channel 1,https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,Channel 2
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
 - Channel 2,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,Channel 3
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
 - Channel 3,http://77.89.199.174:81/hls/live2.m3u8
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
@@ -70,11 +70,11 @@
 
 - Name your playlist as xxx.txt, then edit and save your txt file in format as below:
 - #EXTM3U
-- #EXTINF:-1,Channel 1
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
 - https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,Channel 2
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
 - https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,Channel 3
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
 - http://77.89.199.174:81/hls/live2.m3u8
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
