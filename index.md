@@ -83,7 +83,7 @@
 
 #### 3. Relax and watch your favorite shows on your Mac.
 
-### About TXT Sample Playlist
+## About TXT Sample Playlist
 
 - The following sample playlist with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
 - [Download the TXT Sample Playlist](https://TVPlayerSupport.github.io/Playlist/PlaylistEn.txt.zip) 
