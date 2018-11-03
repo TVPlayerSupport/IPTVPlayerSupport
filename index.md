@@ -83,6 +83,13 @@
 
 #### 3. Relax and watch your favorite shows on your Mac.
 
+## DISCLAIMER 
+
+- IPTV Player does not supply or include any media or content. 
+- IPTV Player has no affiliation with any third-party provider what so ever.
+- Users must provide their own contents.
+- I do not endorse the streaming of copyright protected material without permission of the copyright holder.
+
 ## About TXT Sample Playlist
 
 - The following sample playlist with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
