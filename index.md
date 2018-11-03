@@ -83,13 +83,11 @@
 
 #### 3. Relax and watch your favorite shows on your Mac.
 
+### About Sample Playlist
 
-
-### If you do not make your own Playlist file, download the sample one please!
-
-- Updated on November 1, 2018 
-- [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/TVsrc.txt.zip) 
-- After download the Playlist file, drop it into the window of IPTV Player.
+- The sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
+- [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/PlaylistEn.txt.zip) 
+- If you have any questions about making playlist, feel free to mail me：yu_tian_jian@163.com
 
 ## About m3u Playlist file
 
