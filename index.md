@@ -7,16 +7,16 @@
 ![Icon](icon_128.png)
 
 - IPTV Player, watch television on your iMac or MBP.
-- Just drag your favorite TV and Radio playlist file to the window or open it.
+- Just drag your favorite TV and Radio playlist to the window or open it.
 
 ### Features
 
-- Support m3u8 TV/Radio live Broadcast, and you can custom your own TV/Radio channel.
-- Support text and m3u playlist file.
-- Support  media file formats such as m3u8, mp4, mp3. . . . . .
+- Support m3u8 TV/Radio live Broadcast, you can custom your own TV/Radio channel.
+- Support txt and m3u playlist.
+- Support  media formats such as m3u8, mp4, mp3. . . . . .
 - Support fullscreen.
 - Mouse Control show or hidden Playlist.
-- Support multi Playlist files, and auto save your txt and m3u Playlist files.
+- Support multi Playlist, and auto save your txt and m3u Playlist.
 - Resize window from 480x320 to Fullscreen.
 - Make the window always stay in front or not.
 - Support AirPlay for Apple TV.
@@ -28,13 +28,6 @@
 2. Click the Menu File -- and the subMenu Add Channel to My Favorites
 3. or Click the Menu File -- and the subMenu Remove Channel From My Favorites.
 4. Once you add channels to My Favorites, it will show in the Playlist table.
-
-### How to Show or Hidden Playlist?
-
-- Mouse control.
-1. Mouse move to the Left or Right side of the window, show the Playlist.
-2. Mouse move to the Mid area of the window, hidden the Playlist.
-
 
 ### Support multi Playlist files, How to remove a file from the TableView?
 
@@ -89,6 +82,8 @@
 #### 2. Drag your xxx.txt or xxx.m3u file to the App window or open it.
 
 #### 3. Relax and watch your favorite shows on your Mac.
+
+
 
 ### If you do not make your own Playlist file, download the sample one please!
 
