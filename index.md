@@ -12,11 +12,11 @@
 ### Features
 
 - Support m3u8 TV/Radio live Broadcast, you can custom your own TV/Radio channel.
-- Support txt and m3u playlist.
+- Support TXT and M3U playlist.
 - Support  media formats such as m3u8, mp4, mp3. . . . . .
 - Support fullscreen.
 - Mouse Control show or hidden Playlist.
-- Support multi Playlist, and auto save your txt and m3u Playlist.
+- Support multi Playlists, and auto save your TXT and M3U Playlist.
 - Resize window from 480x320 to Fullscreen.
 - Make the window always stay in front or not.
 - Support AirPlay for Apple TV.
@@ -29,7 +29,7 @@
 3. or Click the Menu File -- and the subMenu Remove Channel From My Favorites.
 4. Once you add channels to My Favorites, it will show in the Playlist table.
 
-### Support multi Playlist files, How to remove a file from the TableView?
+### Support multi Playlists, How to remove a file from the TableView?
 
 1. Select the file you want delete in the Playlist TableView
 2. Click the Menu "File" (On the Top Left Corner)
@@ -40,11 +40,11 @@
 
 #### 1. Make your own Playlist
 
- A. Make your own txt playlist
+ A. Make your own TXT playlist
 
-- Name your playlist as xxx.txt, then edit and save your text file in format as below:
+- Name your playlist as xxx.txt, then edit and save your file in format as below:
  
-- TV or Radio Channel name,Media Source Link
+- TV or Radio Channel,Media Source Link
 - One line one TV or Radio channel (do not forget The comma)
 - For example:
 - (line 1) TV 1,http://streamer.oodlz.it/hls/livestream.m3u8
@@ -53,9 +53,9 @@
 - etc. . . . . .
 - (Save your xxx.txt file as UTF-8) 
 
- B. Make your own m3u playlist (format 1)
+ B. Make your own M3U playlist (format 1)
 
-- Name your playlist as xxx.txt, then edit and save your txt file in format as below:
+- Name your playlist as xxx.txt, then edit and save your file in format as below:
 - #EXTM3U
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
 - Channel 1,https://edge.music-choice-play-chaina/play/chunklist.m3u8
@@ -66,9 +66,9 @@
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
 
- C. Make your own m3u playlist (format 2)
+ C. Make your own M3U playlist (format 2)
 
-- Name your playlist as xxx.txt, then edit and save your txt file in format as below:
+- Name your playlist as xxx.txt, then edit and save your file in format as below:
 - #EXTM3U
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
 - https://edge.music-choice-play-chaina/play/chunklist.m3u8
@@ -85,13 +85,12 @@
 
 ### About TXT Sample Playlist
 
-- The sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
-- [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/PlaylistEn.txt.zip) 
-- If you have any questions about making playlist, feel free to mail me：yu_tian_jian@163.com
+- The following sample playlist with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
+- [Download the TXT Sample Playlist](https://TVPlayerSupport.github.io/Playlist/PlaylistEn.txt.zip) 
 
 ## About M3U Sample Playlist
 
-- The sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats.
+- The following sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats.
 - If IPTV Player can not read your M3U Playlist, please check the format of your M3U file, its format should be the same as the following sample file. 
 - I am very happy if you send your M3U playlist to me by email, I will use your file to test and improve IPTV Player. 
 
@@ -101,7 +100,7 @@
 - M3U (Format-2) Sample Playlist
 - [Download M3U（Format2）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
 
-
+### If you have any questions about making playlist, feel free to mail me：yu_tian_jian@163.com
 
 
 
