@@ -101,11 +101,11 @@
 - If IPTV Player can not read your m3u Playlist file, please check the format of your m3u file, your m3u file's format should be the same as the following sample file. 
 - I am very happy if you send your m3u playlist to me by email, I will use your file to test and improve IPTV Player. 
 
-- m3u (Format-1) Sample Playlist file 
-- [Download m3u（Format1）Sample Playlist file](https://TVPlayerSupport.github.io/txt/M3U_Format-1.m3u.zip)
+- m3u (Format-1) Sample Playlist
+- [Download m3u（Format1）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-1.m3u.zip)
 
-- m3u (Format-2) Sample Playlist file
-- [Download m3u（Format2）Sample Playlist file](https://TVPlayerSupport.github.io/txt/M3U_Format-2.m3u.zip)
+- m3u (Format-2) Sample Playlist
+- [Download m3u（Format2）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
 
 
 
