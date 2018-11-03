@@ -83,22 +83,23 @@
 
 #### 3. Relax and watch your favorite shows on your Mac.
 
-### About Sample Playlist
+### About TXT Sample Playlist
 
 - The sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
 - [Download the Sample Playlist file](https://TVPlayerSupport.github.io/Playlist/PlaylistEn.txt.zip) 
 - If you have any questions about making playlist, feel free to mail me：yu_tian_jian@163.com
 
-## About m3u Playlist file
+## About M3U Sample Playlist
 
-- If IPTV Player can not read your m3u Playlist file, please check the format of your m3u file, your m3u file's format should be the same as the following sample file. 
-- I am very happy if you send your m3u playlist to me by email, I will use your file to test and improve IPTV Player. 
+- The sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats.
+- If IPTV Player can not read your M3U Playlist, please check the format of your M3U file, its format should be the same as the following sample file. 
+- I am very happy if you send your M3U playlist to me by email, I will use your file to test and improve IPTV Player. 
 
-- m3u (Format-1) Sample Playlist
-- [Download m3u（Format1）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-1.m3u.zip)
+- M3U (Format-1) Sample Playlist
+- [Download M3U（Format1）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-1.m3u.zip)
 
-- m3u (Format-2) Sample Playlist
-- [Download m3u（Format2）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
+- M3U (Format-2) Sample Playlist
+- [Download M3U（Format2）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
 
 
 
