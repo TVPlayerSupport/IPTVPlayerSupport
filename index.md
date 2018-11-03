@@ -22,18 +22,6 @@
 - Support AirPlay for Apple TV.
 - Add your favorite channels to My Favorites.
 
-### How to convert the format of Playlist file
-
-- Convert txt Playlist file to m3u Playlist file
-
-1. Click the Menu Playback - and the subMenu Show/Hidden txt and m3u conversion tool
-2. Open txt Playlist file, then Save as m3u Playlist file.
-
-- Convert m3u Playlist file to txt Playlist file
-
-1. Click the Menu Playback - and the subMenu Show/Hidden txt and m3u conversion tool
-2. Open m3u Playlist file, then Save as txt Playlist file.
-
 ### How to Add channels to My Favorites or Delete it?
 
 1. Select the channel you want to add first.
@@ -47,10 +35,6 @@
 1. Mouse move to the Left or Right side of the window, show the Playlist.
 2. Mouse move to the Mid area of the window, hidden the Playlist.
 
-- Menu control
-1. Click the Menu Playback (On the Top Left Corner)
-2. You will see the subMenu: Show/Hidden Playlist
-3. Just Click the subMenu
 
 ### Support multi Playlist files, How to remove a file from the TableView?
 
@@ -61,11 +45,11 @@
 
 ### How it works?
 
-#### 1. Make your own Playlist file
+#### 1. Make your own Playlist
 
- A. Make your own txt playlist file
+ A. Make your own txt playlist
 
-- Name your file as xxx.txt, then edit and save your text file in format as below:
+- Name your playlist as xxx.txt, then edit and save your text file in format as below:
  
 - TV or Radio Channel name,Media Source Link
 - One line one TV or Radio channel (do not forget The comma)
@@ -76,28 +60,28 @@
 - etc. . . . . .
 - (Save your xxx.txt file as UTF-8) 
 
- B. Make your own m3u playlist file (format 1)
+ B. Make your own m3u playlist (format 1)
 
-- Name your playfile as xxx.txt, then edit and save your txt file in format as below:
+- Name your playlist as xxx.txt, then edit and save your txt file in format as below:
 - #EXTM3U
-- #EXTINF:-1,MUSIC choice
-- MUSIC choice,https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,NHK
-- NHK,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,BAL TV
-- BAL TV,http://77.89.199.174:81/hls/live2.m3u8
+- #EXTINF:-1,Channel 1
+- Channel 1,https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- #EXTINF:-1,Channel 2
+- Channel 2,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- #EXTINF:-1,Channel 3
+- Channel 3,http://77.89.199.174:81/hls/live2.m3u8
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
 
- C. Make your own m3u playlist file (format 2)
+ C. Make your own m3u playlist (format 2)
 
-- Name your playfile as xxx.txt, then edit and save your txt file in format as below:
+- Name your playlist as xxx.txt, then edit and save your txt file in format as below:
 - #EXTM3U
-- #EXTINF:-1,MUSIC choice
+- #EXTINF:-1,Channel 1
 - https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,NHK
+- #EXTINF:-1,Channel 2
 - https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,BAL TV
+- #EXTINF:-1,Channel 3
 - http://77.89.199.174:81/hls/live2.m3u8
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
