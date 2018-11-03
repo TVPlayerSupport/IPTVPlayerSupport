@@ -83,6 +83,16 @@
 
 #### 3. Relax and watch your favorite shows on your Mac.
 
+## EULA
+
+- IPTV Player is an advanced player that use TXT and M3U user created playlists.
+- IPTV Player do not provide any actual playlists or contents.
+- It may provide sample playlists with channels that can not be opened but these are used as samples for the users to better understanding of playlist formats.
+- This application is designed to use with user own or created playlist with legal contents.
+- You are responsible to check your created playlists/contents are legal and you have fully rights to use.
+- I am not responsible for misuse of copyright or third party contents using this application and please check your contents are legal and/or you have rights to use.
+- By using this application means you accepts above terms and conditions.
+
 ## DISCLAIMER 
 
 - IPTV Player does not supply or include any media or content. 
