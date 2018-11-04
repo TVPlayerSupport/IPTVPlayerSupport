@@ -1,4 +1,4 @@
-## Welcome to IPTV Player Support
+## Welcome to IPTV Player Support (Mac OSX)
 
 ### Feel free to mail me：yu_tian_jian@163.com
 
