@@ -16,21 +16,21 @@
 - Support  media formats such as m3u8, mp4, mp3. . . . . .
 - Support fullscreen.
 - Mouse Control show or hidden Playlist.
-- Support multi Playlists, and auto save your TXT and M3U Playlist.
+- Support multi playlists, and auto save your TXT and M3U playlist.
 - Resize window from 480x320 to Fullscreen.
 - Make the window always stay in front or not.
 - Support AirPlay for Apple TV.
 - Add your favorite channels to My Favorites.
 - Conversion Tools for convert TXT playlist to M3U or M3U to TXT.
 
-### How to Add channels to My Favorites or Delete it?
+### How to add channels to My Favorites or delete it?
 
 1. Select the channel you want to add first.
 2. Click the Menu File -- and the subMenu Add Channel to My Favorites
 3. or Click the Menu File -- and the subMenu Remove Channel From My Favorites.
 4. Once you add channels to My Favorites, it will show in the Playlist table.
 
-### Support multi Playlists, How to remove a file from the TableView?
+### Support multi playlists, How to remove a file from the tableview?
 
 1. Select the file you want delete in the Playlist TableView
 2. Click the Menu "File" (On the Top Left Corner)
@@ -39,7 +39,7 @@
 
 ### How it works?
 
-#### 1. Make your own Playlist
+#### 1. Make your own playlist
 
  A. Make your own TXT playlist
 
@@ -101,22 +101,22 @@
 - Users must provide their own contents.
 - I do not endorse the streaming of copyright protected material without permission of the copyright holder.
 
-## About TXT Sample Playlist
+## About TXT sample playlist
 
 - The following sample playlist with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
 - [Download the TXT Sample Playlist](https://TVPlayerSupport.github.io/Playlist/Playlist-Sample-En.txt.zip) 
 
-## About M3U Sample Playlist
+## About M3U sample playlist
 
 - The following sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats.
 - If IPTV Player can not read your M3U Playlist, please check the format of your M3U file, its format should be the same as the following sample file. 
 - I am very happy if you send your M3U playlist to me by email, I will use your file to test and improve IPTV Player. 
 
-- M3U (Format-1) Sample Playlist
-- [Download M3U（Format1）Sample Playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-1.m3u.zip)
+- M3U (Format-1) sample playlist
+- [Download M3U（Format1）sample playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-1.m3u.zip)
 
-- M3U (Format-2) Sample Playlist
-- [Download M3U（Format2）Sample Playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-2.m3u.zip)
+- M3U (Format-2) sample playlist
+- [Download M3U（Format2）sample playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-2.m3u.zip)
 
 ## Any questions about playlist
 - Feel free to mail me：yu_tian_jian@163.com
