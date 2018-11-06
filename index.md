@@ -104,7 +104,7 @@
 ## About TXT Sample Playlist
 
 - The following sample playlist with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
-- [Download the TXT Sample Playlist](https://TVPlayerSupport.github.io/Playlist/PlaylistEn.txt.zip) 
+- [Download the TXT Sample Playlist](https://TVPlayerSupport.github.io/Playlist/Playlist-Sample-En.txt.zip) 
 
 ## About M3U Sample Playlist
 
@@ -113,10 +113,10 @@
 - I am very happy if you send your M3U playlist to me by email, I will use your file to test and improve IPTV Player. 
 
 - M3U (Format-1) Sample Playlist
-- [Download M3U（Format1）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-1.m3u.zip)
+- [Download M3U（Format1）Sample Playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-1.m3u.zip)
 
 - M3U (Format-2) Sample Playlist
-- [Download M3U（Format2）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
+- [Download M3U（Format2）Sample Playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-2.m3u.zip)
 
 ## If you have any questions about making playlist
 - Feel free to mail me：yu_tian_jian@163.com
