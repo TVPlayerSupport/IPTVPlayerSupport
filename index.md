@@ -21,6 +21,7 @@
 - Make the window always stay in front or not.
 - Support AirPlay for Apple TV.
 - Add your favorite channels to My Favorites.
+- Conversion Tools for convert TXT playlist to M3U or M3U to TXT.
 
 ### How to Add channels to My Favorites or Delete it?
 
