@@ -118,7 +118,7 @@
 - M3U (Format-2) Sample Playlist
 - [Download M3U（Format2）Sample Playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-2.m3u.zip)
 
-## If you have any questions about making playlist
+## Any questions about playlist
 - Feel free to mail me：yu_tian_jian@163.com
 
 
