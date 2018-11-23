@@ -37,7 +37,7 @@
 4. In fast IPTV Player, presse "URLs", enter the download url of your playlist.
 5. Press "Channels" to get your Channels list.
 
-#### [The quickest way to set up your own playlist download url.](https://xia-lina.github.io/playlistURLEn/)
+### [The quickest way to set up your own playlist download url.](https://xia-lina.github.io/playlistURLEn/)
 
 ### Features
 
