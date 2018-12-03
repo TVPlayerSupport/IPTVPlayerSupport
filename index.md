@@ -43,6 +43,7 @@
 
 - Support m3u8 TV/Radio live Broadcast, you can custom your own TV/Radio channel.
 - Support TXT and M3U playlist.
+- Support load remote playlist.
 - Support  media formats such as m3u8, mp4, mp3. . . . . .
 - Support fullscreen.
 - Mouse Control show or hidden Playlist.
