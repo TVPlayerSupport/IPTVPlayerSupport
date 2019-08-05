@@ -4,6 +4,8 @@
 
 ## fast IPTV Player Support (tvOS Apple TV)
 
+## IPTV Player Support (Android Version - Google Play App Store)
+
 #### Feel free to mail me：yu_tian_jian@163.com
 
 #### Welcome to access：[http://www.yutianjian.com](http://www.yutianjian.com)
