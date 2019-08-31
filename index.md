@@ -22,7 +22,7 @@
 
 - How to load local playlist 
 
-1. Copy your playlist to your SD card, install it in your phone.
+1. Copy your playlist to your SD card, install it in your phone (if your phone support SD card).
 2. Open IPTV Player, read playlist from SD card.
 
 - How to load remote playlist
