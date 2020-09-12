@@ -4,8 +4,6 @@
 
 ## fast IPTV Player Support (tvOS Apple TV)
 
-## IPTV Player Support (Android Version - Google Play App Store)
-
 #### Feel free to mail me：yu_tian_jian@163.com
 
 #### Welcome to access：[http://www.yutianjian.com](http://www.yutianjian.com)
@@ -14,21 +12,6 @@
 
 - IPTV Player, watch television on your iMac or MBP.
 - Just drag your favorite TV and Radio playlist to the window or open it.
-
-### About IPTV Player (Android for Phone)
-
-1. It uses the same M3U and TXT playlist format as IPTV Player (Mac OSX)
-2. Support load local and remote playlist.
-
-- How to load local playlist 
-
-1. Copy your playlist to your SD card, install it in your phone (if your phone support SD card).
-2. Open IPTV Player, read playlist from SD card.
-
-- How to load remote playlist
-
-1. Upload your playlist the a website, get its download url.
-2. Open IPTV Player in your device, enter your playlist download url, press download. 
 
 ### About IPTV fast (IOS for iPhone and iPad)
 
