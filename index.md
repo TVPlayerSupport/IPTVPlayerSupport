@@ -1,6 +1,6 @@
 ## Welcome to IPTV Player Support (macOS)
 
-## IPTV fast Support (IOS for iPhone and iPad)
+## IPTV fast Support (iOS for iPhone and iPad)
 
 ## fast IPTV Player Support (tvOS Apple TV)
 
@@ -13,7 +13,7 @@
 - IPTV Player, watch television on your iMac or MBP.
 - Just drag your favorite TV and Radio playlist to the window or open it.
 
-### About IPTV fast (IOS for iPhone and iPad)
+### About IPTV fast (iOS for iPhone and iPad)
 
 1. It uses the same M3U and TXT playlist format as IPTV Player (Mac OSX)
 2. Support load local and remote playlist.
