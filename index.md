@@ -1,4 +1,4 @@
-## Welcome to IPTV Player Support (Mac OSX)
+## Welcome to IPTV Player Support (macOS)
 
 ## IPTV fast Support (IOS for iPhone and iPad)
 
@@ -113,7 +113,7 @@
 
 #### 2. Drag your xxx.txt or xxx.m3u file to the App window or open it.
 
-#### 3. Relax and watch your favorite shows on your Mac.
+#### 3. Relax and watch your favorite shows on your iMac.
 
 ## EULA
 
