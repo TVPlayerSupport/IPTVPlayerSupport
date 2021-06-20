@@ -21,7 +21,7 @@
 - How to load local playlist 
 
 1. Connecting your device to your computer.
-2. Open iTunes, click file sharing find the IPTV fast, add your playlist to its file share document.
+2. Open iTunes, click file sharing find the IPTV fast, add your playlist to its file share document. If your macOS is Big Sur or later, use Finder, you can drag your playlist to its file share document.
 
 - How to load remote playlist
 
@@ -150,7 +150,7 @@
 - [Download M3U（Format2）sample playlist](https://TVPlayerSupport.github.io/Playlist/M3U-Sample-2.m3u.zip)
 
 ## Any questions about playlist
-- Feel free to mail me：yu_tian_jian@163.com
+- Feel free to mail me：yu_tian_jian@163.com  or yu_tian_jian@sina.cn
 
 
 
