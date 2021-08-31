@@ -21,7 +21,7 @@
 - How to load local playlist 
 
 1. Connecting your device to your computer.
-2. Open iTunes, click file sharing find the IPTV fast, add your playlist to its file share document. 
+2. If your macOS is an earlier than Catalina, Open iTunes, click file sharing find the IPTV fast, add your playlist to its file share document. 
 3. If your macOS is Catalina or Big Sur or later, use Finder, you can drag your playlist to IPTV fast's file share document.
 
 - How to load remote playlist
