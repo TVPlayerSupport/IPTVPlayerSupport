@@ -8,9 +8,9 @@
 
 #### Welcome to access：[http://www.yutianjian.com](http://www.yutianjian.com)
 
-![Icon](icon_128.png)
+![Icon](icon_128.png)  (macOS)
 
-![Icon](newiptv.png)
+![Icon](newiptv.png)   (iOS)
 
 - IPTV Player, watch television on your iMac or MBP.
 - Just drag your favorite TV and Radio playlist to the window or open it.
