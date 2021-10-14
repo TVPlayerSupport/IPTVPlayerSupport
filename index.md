@@ -10,6 +10,8 @@
 
 ![Icon](icon_128.png)
 
+![Icon](newiptv.png)
+
 - IPTV Player, watch television on your iMac or MBP.
 - Just drag your favorite TV and Radio playlist to the window or open it.
 
